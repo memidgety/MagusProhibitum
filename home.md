@@ -1,2 +1,3 @@
-## Hello World
-hello world
+## Magus Prohibitum
+## Table of Contents
+![[root.base]]
