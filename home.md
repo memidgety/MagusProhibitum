@@ -11,4 +11,5 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[5. Mires & Trauma]]        |     |
 | [[6. Consequences & Wounds]] |     |
 |                              |     |
-| [[8. Traits]]                |     |
+| [[8. Racial Traits]]         |     |
+| [[9. Profession Traits]]     |     |
