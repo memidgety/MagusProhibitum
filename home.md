@@ -13,4 +13,5 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[7. Character Creation]]    |     |
 | [[8. Racial Traits]]         |     |
 | [[9. Profession Traits]]     |     |
+| [[10. Gear]]                 |     |
 | [[11. Long Rests]]           |     |
