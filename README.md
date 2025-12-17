@@ -10,7 +10,7 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[4. Skills]]                |     |
 | [[5. Mires & Trauma]]        |     |
 | [[6. Consequences & Wounds]] |     |
-| [[7. Character Creation]]    |     |
+| [[7.Character_Creation]]    |     |
 | [[8. Racial Traits]]         |     |
 | [[9. Profession Traits]]     |     |
 | [[10. Gear]]                 |     |
