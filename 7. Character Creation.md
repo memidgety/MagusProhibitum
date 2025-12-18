@@ -1,0 +1,20 @@
+1. Choose a [[8. Racial Traits|race]] and heritage
+2. Choose a background
+3. Choose 3 [[5. Mires & Trauma|mires]]
+4. Choose a Vice and Vice Purveyor
+	-  **Faith**: You’re dedicated to an unseen power, forgotten god, ancestor, etc.
+	-  **Gambling**: You crave games of chance, betting on sporting events, etc.
+	-  **Luxury**: Expensive or ostentatious displays of opulence.
+	-  **Obligation**: You’re devoted to a family, a cause, an organization, a charity, etc.
+	-  **Pleasure**: Gratification from lovers, food, drink, drugs, art, theater, etc.
+	-  **Stupor**: You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+	-  **Weird**: You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+5. Choose 3 [[3. Stats|Attributes]]
+6. Choose 2 [[8. Racial Traits|Racial Traits]] - they can be from any race
+	1. Alternative choose 1 from your main race
+7. Choose a Profession and pick 1 Profession Trait
+8. Make a Friend and Rival
+	1. Are they a close friend, trustworthy ally, family member, lover?
+	2. Are the a rival, enemy, betrayed partner, etc?
+9. Choose a name and describe your character
+10. [[10. Gear|Gear]] is picked before a job
