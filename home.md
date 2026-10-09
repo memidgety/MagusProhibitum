@@ -6,9 +6,9 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[1. The Basics]]              |                    |
 | ------------------------------ | ------------------ |
 | [[2. Core System]]             | [[2.a Flashbacks]] |
-| [[3. Stats]]                   |                    |
+| [[3. Attributes]]                   |                    |
 | [[4. Skills]]                  |                    |
-| [[5. Mires & Trauma]]          |                    |
+| [[5. Mires]]          |                    |
 | [[6. Consequences & Wounds]]   |                    |
 | [[7. Character Creation]]      |                    |
 | [[8. Racial Traits]]           |                    |
