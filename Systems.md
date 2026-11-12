@@ -7,6 +7,8 @@
 
 [[3. Attributes|Attributes]]
 
+[[4. Skills|Skills]]
+
 [[5. Mires#Mires|Mires]]
 	[[5. Mires#Pushing yourself|Pushing Yourself]]
 	[[5. Mires#Pushing yourself|Resisting Damage]]
