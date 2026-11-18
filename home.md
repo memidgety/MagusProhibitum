@@ -15,5 +15,5 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[9. Professions]]             |                    |
 | [[10. Gear]]                   |                    |
 | [[11. Magic]]                  |                    |
-| [[12. Long Rests]]             |                    |
+| [[13. Long Rests]]             |                    |
 | [[14. The City of Crossroads]] |                    |
