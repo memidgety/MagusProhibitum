@@ -3,7 +3,7 @@
 [[2. Core System#Loaded Deal|Loaded Deals]]
 [[2. Core System#Cutting|Cutting]]
 
-[[2.a Flashbacks|Flashbacks]]
+[[2.a Prepared Actions|Flashbacks]]
 
 [[3. Attributes|Attributes]]
 
