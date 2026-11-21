@@ -7,7 +7,7 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | ------------------------------ | ------------------ |
 | [[2. Core System]]             | [[2.a Prepared Actions]] |
 | [[3. Attributes]]                   |                    |
-| [[4. Skills]]                  |                    |
+| [[4. Skills and Attributes]]                  |                    |
 | [[5. Mires]]          |                    |
 | [[6. Consequences & Wounds]]   |                    |
 | [[7. Character Creation]]      |                    |
