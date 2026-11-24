@@ -31,7 +31,8 @@ ___
 ___
 
 ## Obligation
-- Family
+- Your Family
+- Bram Gravelfist, a ghost haunting your abode
 - Sigrid Volk, protecting her former war company
 - Ulric Fen, hunting monsters for the bounty office
 - Enoch Graves, tending the cemetery for the church
