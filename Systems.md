@@ -9,10 +9,10 @@
 
 [[4. Skills and Attributes|Skills]]
 
-[[5. Mires#Mires|Mires]]
-	[[5. Mires#Pushing yourself|Pushing Yourself]]
-	[[5. Mires#Pushing yourself|Resisting Damage]]
-	[[5. Mires#Aiding an Ally|Aiding an ally]]
+[[5. Faults#Mires|Mires]]
+	[[5. Faults#Pushing yourself|Pushing Yourself]]
+	[[5. Faults#Pushing yourself|Resisting Damage]]
+	[[5. Faults#Aiding an Ally|Aiding an ally]]
 
 [[6. Consequences & Wounds]]
 
