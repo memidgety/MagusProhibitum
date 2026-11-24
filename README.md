@@ -9,7 +9,7 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[2. Core System]]             | [[2.a Prepared Actions]] |
 | [[4. Skills and Attributes]]   |                          |
 |                                |                          |
-| [[5. Faults]]                   |                          |
+| [[5. Faults]]                  |                          |
 | [[6. Consequences & Wounds]]   |                          |
 | [[7. Character Creation]]      |                          |
 | [[8. Racial Traits]]           |                          |
@@ -19,5 +19,5 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[12. Jobs]]                   |                          |
 | [[13. Long Rests]]             |                          |
 | [[14. The City of Crossroads]] |                          |
-|                                |                          |
+| [[Vice\|Vices]]                |                          |
 | [[16. Organizations]]          |                          |
