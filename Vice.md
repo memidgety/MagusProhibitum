@@ -27,7 +27,7 @@ ___
 - Leopold Strass, collecting antique watches
 - Celestine Ward, imported perfumes and silk
 - Alistair Vane, private box seats at the opera
-- Lenora Blackwell, tours through the Museum of Magical Arts
+- Docent Lenora Blackwell, tours through the Museum of Magical Arts
 ___
 
 ## Obligation
@@ -51,7 +51,7 @@ ___
 - Sabine Vire, forbidden alchemical experiments
 - Corvin Ashdown, collecting haunted objects
 - Enoch Graves, listening to the dead in the cemetery
-- Lenora Blackwell, tours through the Museum of Magical Arts
+- Docent Lenora Blackwell, tours through the Museum of Magical Arts
 
 ___
 
