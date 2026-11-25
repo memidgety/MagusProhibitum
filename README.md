@@ -14,6 +14,7 @@ The year stands at the edge of a new century. For centuries, since the Renaissan
 | [[5. Faults]]                  |                                         |
 | [[6. Consequences & Wounds]]   |                                         |
 | [[7. Character Creation]]      |                                         |
+| [[7.a Backgrounds]]            |                                         |
 | [[8. Racial Traits]]           |                                         |
 | [[9. Professions]]             |                                         |
 | [[10. Gear]]                   | [[10.a Resources]]                      |
